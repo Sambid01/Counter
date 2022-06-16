@@ -44,9 +44,9 @@ def.forEach(function(btns){
 
 
 
-    console.log(e.currentTarget.classList)
-    console.log( e.target.classList)
-    console.log(btns)
+    // console.log(e.currentTarget.classList)
+    // console.log( e.target.classList)
+    // console.log(btns)
 
 
     
