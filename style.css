@@ -1,0 +1,57 @@
+/*h1{
+    color: red;
+}
+
+c-1 {
+    background-color: grey;
+}
+
+c-2 {
+    background-color: brown;
+    font-size: 20px;
+}
+
+c-3 {
+    background-color: lime;
+}
+
+#one{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+    position: absolute;
+    -webkit-box-shadow: ;
+}*/
+
+
+main{
+    margin-left: 500px;
+    margin-top: 200px;
+}
+
+section{
+    font-size: 100px;
+}
+
+#value{
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    margin-left: 150px;
+}
+.btn{
+    font-size: 30px;
+    border-radius: 30px;
+    ;
+}
+
+.btn:hover{
+    background-color: grey;
+}
